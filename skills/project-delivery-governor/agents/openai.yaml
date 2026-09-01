@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目交付治理"
+  short_description: "围绕产品主线组织版本、角色分工、质量门、验收与异常恢复流程"
+  default_prompt: "Use $project-delivery-governor to organize this project into a lean, user-centered delivery flow."
